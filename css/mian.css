@@ -230,7 +230,6 @@ header .main_menu {
   display: flex;
 }
 
-header .main_menu .item {}
 
 header .main_menu .item .item__name {
   padding: 10px 20px 34px 20px;
@@ -372,7 +371,6 @@ header .badges .badge {
 }
 
 /* notice */
-.notice {}
 
 .notice .notice-line {
   position: relative;
@@ -604,8 +602,6 @@ header .badges .badge {
   flex-wrap: wrap;
 }
 
-.rewards .btn-group .btn {}
-
 .rewards .btn-group .btn.sign-up {
   margin-right: 10px;
 }
@@ -799,7 +795,6 @@ header .badges .badge {
 }
 
 .reserve-store .medal .front {
-
   transform: rotateY(0deg);
 }
 
